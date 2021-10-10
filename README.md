@@ -54,6 +54,7 @@ Zatím pouze animace, přidáme hratelnost.
 2. Skrytí postav/zastav všechno (kód [zde](https://scratch.mit.edu/projects/581916433/editor/)
 3. Rozšiřující znalosti (vlastní úprava postavičky, zvukové efekty...)
 4. Uložení a sdílení hry a kde hru najdu
+5. Možnost přidání dalšího levelu hry (záleží na časových možnostech) [zde](https://scratch.mit.edu/projects/581999419/editor/)
 ## Založení nové hry
 - Výběr postavy
 - Animace pohybu postavičky
