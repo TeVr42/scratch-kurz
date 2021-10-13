@@ -28,7 +28,7 @@ Chceme si vyčistit kód.
 - Kód [zde](https://scratch.mit.edu/projects/581907071/editor)
 ## Pokročilá hra
 Zatím pouze animace, přidáme hratelnost.
-### Jídlo
+### Přidání další postavy
 1. Přidání postavy jídla (a nastavení velikosti)
 2. Jídlo - první pohyb (př. opakuj stále - klouzej na náhodnou pozici)
 3. Chytání jídla - podmínka, skrytí jídla po chycení
