@@ -1,6 +1,6 @@
 # Czechitas Scratch 1
 ## Úvodní prostředí
-1. Představení prostředí Scratche (ozdělení obrazovky, hladání/vytvoření/smazání bloku)
+1. Představení prostředí Scratche (rozdělení obrazovky, hladání/vytvoření/smazání bloku)
 2. Změna postavy na brouka
 3. Uložení a pojmenování si hry
 ## První pokyny
