@@ -1,5 +1,5 @@
 # Czechitas Scratch 1
-## Úvodní prostředí
+## Úvod - prostředí Scratche
 1. Představení prostředí Scratche (rozdělení obrazovky, hladání/vytvoření/smazání bloku)
 2. Změna postavy na brouka
 3. Uložení a pojmenování si hry
@@ -55,10 +55,25 @@ Zatím pouze animace, přidáme hratelnost.
 3. Rozšiřující znalosti (vlastní úprava postavičky, zvukové efekty...)
 4. Uložení a sdílení hry a kde hru najdu
 5. Možnost přidání dalšího levelu hry (záleží na časových možnostech) [zde](https://scratch.mit.edu/projects/581999419/editor/)
+## Tvorba kódu podle výsledku
+* Zařazena vlastní tvorba. (Ideálně v bloku po obědě).
+* Dětem je promítnuta hra a vysvětlena její funkcionalita. [Kód](https://scratch.mit.edu/projects/584861824/editor/) a [ukázka](https://scratch.mit.edu/projects/584861824/fullscreen/).
+* Mají za úkol vytvořit stejnou (podobnou na stejném principu), slouží k upevnění znalostí. Děti, co doposud kód opisovaly musí vytvářet vlastní samy. Pochopí také, že stačí mít nápad, ten si rozložit na menší problémy a mohou si vytvořit vlastní hru.
+* Pro rychlejší se ukáže hra s rozšířenou funkcionalitou - opět mají vytvořit kód. [Zde](https://scratch.mit.edu/projects/587607510/editor/) ([ukázka](https://scratch.mit.edu/projects/587607510/fullscreen/)) a [zde](https://scratch.mit.edu/projects/587616880/editor/) ([ukázka](https://scratch.mit.edu/projects/587616880/fullscreen/)).
 ## Založení nové hry
 - Výběr postavy
 - Animace pohybu postavičky
 - Pohyb po x, y
 - Rozšiřující znalosti (různá pozadí, další bloky...)
-- Vlastní dokončení her, záleží na dětech
+- Vlastní dokončení her, záleží na dětech (hlasování, kterou hru chtějí dokončit...)
 - Např. [zde](https://scratch.mit.edu/projects/581917993/editor/)
+
+## Rozvrh (odhad)
+* Úvod Czechitas 9:00 - 9:15
+1. Blok 9:15 - 10:00
+2. Blok 10:10 - 10:55
+3. Blok 11:05 - 11:50
+* Obědová pauza 11:50 - 12:45
+4. Blok 12:45 - 13:30
+5. Blok 13:40 - 14:35
+6. Blok 14:45 - 15:30
