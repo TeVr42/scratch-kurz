@@ -54,7 +54,7 @@ Zatím pouze animace, přidáme hratelnost.
 2. Skrytí postav/zastav všechno (kód [zde](https://scratch.mit.edu/projects/581916433/editor/)
 3. Rozšiřující znalosti (vlastní úprava postavičky, zvukové efekty...)
 4. Uložení a sdílení hry a kde hru najdu
-5. Možnost přidání dalšího levelu hry (záleží na časových možnostech) [zde](https://scratch.mit.edu/projects/581999419/editor/)
+5. Možnost přidání dalšího levelu hry (záleží na časových možnostech) [zde](https://scratch.mit.edu/projects/581999419/editor/))
 ## Tvorba kódu podle výsledku
 * Zařazena vlastní tvorba. (Ideálně v bloku po obědě).
 * Dětem je promítnuta hra a vysvětlena její funkcionalita. [Kód](https://scratch.mit.edu/projects/584861824/editor/) a [ukázka](https://scratch.mit.edu/projects/584861824/fullscreen/).
@@ -67,6 +67,7 @@ Zatím pouze animace, přidáme hratelnost.
 - Rozšiřující znalosti (různá pozadí, další bloky...)
 - Vlastní dokončení her, záleží na dětech (hlasování, kterou hru chtějí dokončit...)
 - Např. [zde](https://scratch.mit.edu/projects/581917993/editor/)
+- Navíc: vytvoření piana (zvuky, vlastní bloky) [zde](https://scratch.mit.edu/projects/606507579/editor/)
 
 ## Rozvrh (odhad)
 * Úvod Czechitas 9:00 - 9:15
